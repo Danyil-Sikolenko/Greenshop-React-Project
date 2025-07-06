@@ -1,0 +1,86 @@
+{
+  "plants": [
+    {
+    "id": 1,
+    "title": "Barberton Daisy",
+    "category": "House Plants",
+    "size": "Medium",
+    "price": 1200,
+    "discount": 10,
+    "imageUrl": "https://images.unsplash.com/photo-1587450981515-72a5f604b72d"
+  },
+  {
+    "id": 2,
+    "title": "Angel Wing Begonia",
+    "category": "Potter Plants",
+    "size": "Medium",
+    "price": 1900,
+    "discount": 0,
+    "imageUrl": "https://images.unsplash.com/photo-1617133863686-f1ce20b6234a"
+  },
+  {
+    "id": 3,
+    "title": "African Violet",
+    "category": "Seeds",
+    "size": "Large",
+    "price": 3500,
+    "discount": 15,
+    "imageUrl": "https://images.unsplash.com/photo-1593933152216-022e52bd4043"
+  },
+  {
+    "id": 4,
+    "title": "Beach Spider Lily",
+    "category": "Small Plants",
+    "size": "Medium",
+    "price": 850,
+    "discount": 5,
+    "imageUrl": "https://images.unsplash.com/photo-1579882344700-74799c7330c2"
+  },
+    {
+    "id": 5,
+    "title": "Blushing Bromeliad",
+    "category": "Small Plants",
+    "size": "Large",
+    "price": 1200,
+    "discount": 10,
+    "imageUrl": "https://images.unsplash.com/photo-1587450981515-72a5f604b72d"
+  },
+  {
+    "id": 6,
+    "title": "Aluminum Plant",
+    "category": "House Plants",
+    "size": "Small",
+    "price": 1900,
+    "discount": 0,
+    "imageUrl": "https://images.unsplash.com/photo-1617133863686-f1ce20b6234a"
+  },
+  {
+    "id": 7,
+    "title": "Bird's Nest Fern",
+    "category": "Small Plants",
+    "size": "Small",
+    "price": 3500,
+    "discount": 15,
+    "imageUrl": "https://images.unsplash.com/photo-1593933152216-022e52bd4043"
+  },
+  {
+    "id": 8,
+    "title": "Broadleaf Lady Palm",
+    "category": "Small Plants",
+    "size": "Small",
+    "price": 850,
+    "discount": 5,
+    "imageUrl": "https://images.unsplash.com/photo-1579882344700-74799c7330c2"
+  },
+  {
+    "id": 9,
+    "title": "Chinese Evergreen",
+    "category": "Small Plants",
+    "size": "Small",
+    "price": 850,
+    "discount": 5,
+    "imageUrl": "https://images.unsplash.com/photo-1579882344700-74799c7330c2"
+  }
+
+  ]
+}
