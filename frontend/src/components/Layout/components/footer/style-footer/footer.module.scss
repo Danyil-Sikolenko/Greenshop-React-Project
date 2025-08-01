@@ -1,0 +1,108 @@
+// footer{
+//      flex-shrink: 0;
+// }
+
+.footer_section {
+    display: flex;
+    justify-content: space-between;
+    background: #fbfbfb;
+    padding-left: 23px;
+    padding-right: 60px;
+    padding-top: 32px;
+
+    .footer_list_account {
+        h4 {
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 89%;
+            color: #3d3d3d;
+            margin-bottom: 15px;
+        }
+
+        ul {
+            li {
+                margin-bottom: 10px;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 214%;
+                color: #3d3d3d;
+
+                a {
+                    &:hover {
+                        text-decoration: underline;
+                    }
+                }
+            }
+        }
+
+    }
+
+    .footer_list_guide {
+        h4 {
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 89%;
+            color: #3d3d3d;
+            margin-bottom: 15px;
+        }
+
+        ul {
+            li {
+                margin-bottom: 10px;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 214%;
+                color: #3d3d3d;
+
+                a {
+                    &:hover {
+                        text-decoration: underline;
+                    }
+                }
+            }
+        }
+    }
+
+    .footer_list_categories {
+        h4 {
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 89%;
+            color: #3d3d3d;
+            margin-bottom: 15px;
+        }
+
+        ul {
+            li {
+                margin-bottom: 10px;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 214%;
+                color: #3d3d3d;
+
+                a {
+                    &:hover {
+                        text-decoration: underline;
+                    }
+                }
+            }
+        }
+
+    }
+
+    .footer_list_media {
+        h4 {
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 89%;
+            color: #3d3d3d;
+            margin-bottom: 20px;
+        }
+        ul{
+            display: flex;
+            gap: 10px;
+            margin-bottom: 33px;
+        }
+
+    }
+}

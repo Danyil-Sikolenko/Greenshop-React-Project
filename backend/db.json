@@ -5,81 +5,80 @@
     "title": "Barberton Daisy",
     "category": "House Plants",
     "size": "Medium",
-    "price": 1200,
+    "price": 125,
     "discount": 10,
-    "imageUrl": "https://images.unsplash.com/photo-1587450981515-72a5f604b72d"
+    "status": "new",
+    "imageUrl": "http://localhost:4000/img-local-to-backend/card1.png"
   },
   {
     "id": 2,
     "title": "Angel Wing Begonia",
     "category": "Potter Plants",
     "size": "Medium",
-    "price": 1900,
+    "price": 115,
     "discount": 0,
-    "imageUrl": "https://images.unsplash.com/photo-1617133863686-f1ce20b6234a"
+    "status": "new",
+    "imageUrl": "http://localhost:4000/img-local-to-backend/card2.png"
   },
   {
     "id": 3,
     "title": "African Violet",
     "category": "Seeds",
     "size": "Large",
-    "price": 3500,
+    "price": 500,
     "discount": 15,
-    "imageUrl": "https://images.unsplash.com/photo-1593933152216-022e52bd4043"
-  },
-  {
-    "id": 4,
-    "title": "Beach Spider Lily",
-    "category": "Small Plants",
-    "size": "Medium",
-    "price": 850,
-    "discount": 5,
-    "imageUrl": "https://images.unsplash.com/photo-1579882344700-74799c7330c2"
+    "status": "new",
+    "imageUrl": "http://localhost:4000/img-local-to-backend/card3.png"
   },
     {
-    "id": 5,
+    "id": 4,
     "title": "Blushing Bromeliad",
     "category": "Small Plants",
     "size": "Large",
-    "price": 1200,
+    "price": 120,
     "discount": 10,
-    "imageUrl": "https://images.unsplash.com/photo-1587450981515-72a5f604b72d"
+    "status": "new",
+    "imageUrl": "http://localhost:4000/img-local-to-backend/card5.png"
   },
   {
-    "id": 6,
+    "id": 5,
     "title": "Aluminum Plant",
     "category": "House Plants",
     "size": "Small",
-    "price": 1900,
+    "price": 60,
     "discount": 0,
-    "imageUrl": "https://images.unsplash.com/photo-1617133863686-f1ce20b6234a"
+    "status": "new",
+    "imageUrl": "http://localhost:4000/img-local-to-backend/card6.png"
   },
   {
-    "id": 7,
+    "id": 6,
     "title": "Bird's Nest Fern",
     "category": "Small Plants",
     "size": "Small",
-    "price": 3500,
+    "price": 210,
     "discount": 15,
-    "imageUrl": "https://images.unsplash.com/photo-1593933152216-022e52bd4043"
+    "status": "sold",
+    "imageUrl": "http://localhost:4000/img-local-to-backend/card7.png"
   },
   {
-    "id": 8,
+    "id": 7,
     "title": "Broadleaf Lady Palm",
     "category": "Small Plants",
     "size": "Small",
-    "price": 850,
+    "price": 150,
     "discount": 5,
-    "imageUrl": "https://images.unsplash.com/photo-1579882344700-74799c7330c2"
+    "status": "new",
+    "imageUrl": "http://localhost:4000/img-local-to-backend/card8.png"
   },
   {
-    "id": 9,
+    "id": 8,
     "title": "Chinese Evergreen",
     "category": "Small Plants",
     "size": "Small",
-    "price": 850,
+    "price": 50,
     "discount": 5,
-    "imageUrl": "https://images.unsplash.com/photo-1579882344700-74799c7330c2"
+    "status": "sold",
+    "imageUrl": "http://localhost:4000/img-local-to-backend/card9.png"
   }
 
   ]

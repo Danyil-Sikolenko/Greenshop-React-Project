@@ -1,0 +1,90 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  padding: 2rem;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: #f9f9f9;
+  height: 80vh;
+}
+
+.imageWrapper {
+  flex: 1 1 300px;
+  max-width: 400px;
+  text-align: center;
+}
+
+.image {
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.details {
+  flex: 1 1 300px;
+  max-width: 500px;
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: #2c3e50;
+}
+
+.category,
+.size,
+.status {
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+  color: #555;
+}
+
+.price {
+  font-size: 1.2rem;
+  margin: 1rem 0;
+}
+
+
+
+.discountedPrice {
+  color: #e74c3c;
+  font-weight: bold;
+}
+
+.button {
+  background-color: #27ae60;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-bottom: 10px;
+  &:hover{
+     background-color: #219150;
+  }
+}
+
+
+.btn_delete{
+  background-color: #cb3939;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  &:hover{
+     background-color: #912121;
+  }
+
+}
+

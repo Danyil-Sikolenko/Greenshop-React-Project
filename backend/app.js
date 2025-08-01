@@ -1,20 +1,19 @@
 const express = require('express');
 const cors = require('cors');
-const app = express(); // ← Express-приложение
+const path = require('path');
 
 const apiRoutes = require('./routes/api');
 
+const app = express();
+
 // Middlewares
 app.use(cors());
-app.use(express.json()); // ← Обязательно для парсинга JSON из тела запросов
+app.use(express.json());
 
 // Роуты
-app.use('/api', apiRoutes);
+app.use('/', apiRoutes);
 
-// Экспорт сервера
+// Статические файлы
+app.use('/img-local-to-backend', express.static(path.join(__dirname, 'img-local-to-backend')));
+
 module.exports = app;
-
-
-
-
-
