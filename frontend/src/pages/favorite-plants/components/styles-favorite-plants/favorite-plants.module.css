@@ -1,0 +1,89 @@
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.empty {
+  text-align: center;
+  margin-top: 3rem;
+  font-size: 1.2rem;
+  color: #555;
+}
+
+.btnShopNow {
+  margin-top: 1rem;
+  padding: 0.6rem 1.2rem;
+  background-color: #52c41a;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+.btnShopNow:hover {
+  background-color: #389e0d;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  background-color: #f9f9f9;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  width: 100%;
+  max-width: 700px;
+}
+
+.image {
+  width: 120px;
+  height: 120px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 8px;
+  margin-right: 1rem;
+}
+
+.info {
+  flex: 1;
+}
+
+.title {
+  font-size: 1.4rem;
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+
+.details {
+  font-size: 0.95rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.price {
+  font-weight: bold;
+  color: #1890ff;
+  margin-bottom: 1rem;
+}
+
+.removeBtn {
+  padding: 0.5rem 1rem;
+  background-color: #ff4d4f;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.removeBtn:hover {
+  background-color: #d9363e;
+}/*# sourceMappingURL=favorite-plants.module.css.map */
