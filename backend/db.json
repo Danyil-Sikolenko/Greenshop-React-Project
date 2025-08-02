@@ -8,7 +8,7 @@
     "price": 125,
     "discount": 10,
     "status": "new",
-    "imageUrl": "http://localhost:4000/img-local-to-backend/card1.png"
+    "imageUrl": "https://greenshop-react-project-1.onrender.com/img-local-to-backend/card1.png"
   },
   {
     "id": 2,
@@ -18,7 +18,7 @@
     "price": 115,
     "discount": 0,
     "status": "new",
-    "imageUrl": "http://localhost:4000/img-local-to-backend/card2.png"
+    "imageUrl": "https://greenshop-react-project-1.onrender.com/img-local-to-backend/card2.png"
   },
   {
     "id": 3,
@@ -28,7 +28,7 @@
     "price": 500,
     "discount": 15,
     "status": "new",
-    "imageUrl": "http://localhost:4000/img-local-to-backend/card3.png"
+    "imageUrl": "https://greenshop-react-project-1.onrender.com/img-local-to-backend/card3.png"
   },
     {
     "id": 4,
@@ -38,7 +38,7 @@
     "price": 120,
     "discount": 10,
     "status": "new",
-    "imageUrl": "http://localhost:4000/img-local-to-backend/card5.png"
+    "imageUrl": "https://greenshop-react-project-1.onrender.com/img-local-to-backend/card4.png"
   },
   {
     "id": 5,
@@ -48,7 +48,7 @@
     "price": 60,
     "discount": 0,
     "status": "new",
-    "imageUrl": "http://localhost:4000/img-local-to-backend/card6.png"
+    "imageUrl": "https://greenshop-react-project-1.onrender.com/img-local-to-backend/card5.png"
   },
   {
     "id": 6,
@@ -58,7 +58,7 @@
     "price": 210,
     "discount": 15,
     "status": "sold",
-    "imageUrl": "http://localhost:4000/img-local-to-backend/card7.png"
+   "imageUrl": "https://greenshop-react-project-1.onrender.com/img-local-to-backend/card6.png"
   },
   {
     "id": 7,
@@ -68,7 +68,7 @@
     "price": 150,
     "discount": 5,
     "status": "new",
-    "imageUrl": "http://localhost:4000/img-local-to-backend/card8.png"
+    "imageUrl": "https://greenshop-react-project-1.onrender.com/img-local-to-backend/card7.png"
   },
   {
     "id": 8,
@@ -78,7 +78,7 @@
     "price": 50,
     "discount": 5,
     "status": "sold",
-    "imageUrl": "http://localhost:4000/img-local-to-backend/card9.png"
+    "imageUrl": "https://greenshop-react-project-1.onrender.com/img-local-to-backend/card9.png"
   }
 
   ]
