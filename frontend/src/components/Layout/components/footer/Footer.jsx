@@ -1,6 +1,6 @@
 
 import facebo0kIcon from "../../../../assets/icon/Facebook.png";
-import instagramIcon from "../../../../assets/icon/instagram.png";
+import instagramIcon from "../../../../assets/icon/Instagram.png";
 import linkidinIcon from "../../../../assets/icon/Linkidin.png";
 import twitterIcon from "../../../../assets/icon/Twitter.png";
 import youtubeIcon from "../../../../assets/icon/Youtube.png";
