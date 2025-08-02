@@ -51,7 +51,7 @@ function CardsPlant({ activeCategory, activeSize, activeStatus }) {
   };
 
   const handleNavigate = (id) => {
-    navigate(`/plant/${id}`);
+    navigate(`/plants/${id}`);
   };
 
   return (

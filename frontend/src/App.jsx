@@ -25,7 +25,7 @@ const router = createBrowserRouter([
       { path: 'shop', element: <MaintenancePage/> },
       { path: 'My-chosen-plants', element: <FavoritePlants /> },
       { path: 'blogs', element: <MaintenancePage/> },
-      {path : 'plant/:id', element : <PlantsCart/>, loader: PlantLoader}
+      {path : 'plants/:id', element : <PlantsCart/>, loader: PlantLoader}
     ],
   },
   { path: 'login', element: <Login /> },
