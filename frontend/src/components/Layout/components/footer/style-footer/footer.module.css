@@ -68,4 +68,15 @@
   display: flex;
   gap: 10px;
   margin-bottom: 33px;
+}
+
+@media (max-width: 1185px) {
+  .footer_section {
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: 431px) {
+  .footer_section {
+    padding-right: 28px;
+  }
 }/*# sourceMappingURL=footer.module.css.map */

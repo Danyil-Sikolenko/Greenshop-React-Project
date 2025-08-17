@@ -74,7 +74,10 @@ function Footer() {
                         </li>
                     </ul>
                 </div>
-                <div className={styles.footer_list_media}>
+
+                <div className={styles.section_media_mobile}>
+
+                     <div className={styles.footer_list_media}>
                     <h4>Social Media</h4>
                     <ul>
                         <li>
@@ -96,6 +99,9 @@ function Footer() {
                     <h4>We accept</h4>
                     <a href=""><img src={payCardsIcon} alt="#" /></a>
                 </div>
+
+                </div>
+               
 
             </div>
         </footer>

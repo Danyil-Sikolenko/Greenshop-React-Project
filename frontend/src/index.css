@@ -13,10 +13,10 @@ body {
   font-family: 'Cera Pro', 'PT Sans', sans-serif;
     overflow-y: scroll;
 }
-.container{
+/* .container{
     max-width: 1200px;
     margin: auto;
-}
+} */
 
 a {
   text-decoration: none;

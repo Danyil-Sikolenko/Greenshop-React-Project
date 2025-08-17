@@ -56,7 +56,7 @@ function CategoryMenu({ activeCategory, setActiveCategory, activeSize, setActive
                 ))}
             </ul>
              <a href="#">
-                  <img src={saleBanner} alt="sale-banner" />
+                  <img className={styles.sale_banner} src={saleBanner} alt="sale-banner" />
             </a>
         </div>
         </>
