@@ -25,13 +25,12 @@ const router = createBrowserRouter([
       { path: 'shop', element: <MaintenancePage/> },
       { path: 'My-chosen-plants', element: <FavoritePlants /> },
       { path: 'blogs', element: <MaintenancePage/> },
-      {path : 'plants/:id', element : <PlantsCart/>, loader: PlantLoader}
     ],
   },
   { path: 'login', element: <Login /> },
   { path: 'signup', element: <SignUp /> },
   { path: '*', element: <NotFound /> },
-
+  {path : 'plants/:id', element : <PlantsCart/>, loader: PlantLoader},
   {
     path: 'cart', element:
       <PrivateRoute>
